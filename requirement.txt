@@ -3,3 +3,4 @@ numpy
 pytorch
 scipy
 matplotlib
+seaborn
