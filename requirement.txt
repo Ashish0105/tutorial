@@ -4,3 +4,4 @@ pytorch
 scipy
 matplotlib
 seaborn
+torchvision
